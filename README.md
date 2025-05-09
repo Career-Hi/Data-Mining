@@ -1,2 +1,2 @@
 # Data-Mining
-RAG에 사용되는 초기 데이터셋에 대한 통계 정보입니다.
+Career-Hi 서비스 RAG에 사용되는 초기 데이터셋에 대한 description입니다.
